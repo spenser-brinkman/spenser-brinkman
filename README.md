@@ -1,4 +1,4 @@
-<h2>Hi, I'm Spenser
+<h2>:wave:🙂 Hi, I'm Spenser
 <img align='right'>
 <a href="https://dev.to/spenser6131" ><img src="https://svgur.com/i/Vfu.svg" alt="Dev.to: spenser6131" height='20px'></a>
 <a href="https://www.linkedin.com/in/spenser-brinkman/"><img src="https://img.shields.io/badge/-Spenser%20Brinkman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spenserbrinkman/" alt="LinkedIn: Spenser Brinkman"></a>
