@@ -6,7 +6,7 @@
 <a href="https://www.codewars.com/users/spenser6131"><img src="https://www.codewars.com/users/spenser6131/badges/micro" alt="Codewars: spenser6131"></a></h2>
 </img>
 
-##### Climbing Arborist and Produce Manager :arrow_right::arrow_right::arrow_right: Web Developer experienced working with Ruby on Rails and React.js
+Web Developer experienced working with Ruby on Rails, and React.js + Redux
 
 #### [I'm currently looking for work, so if you know of anything, please reach out!](mailto:brinkman.spenser@gmail.com)
 
