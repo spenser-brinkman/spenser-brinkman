@@ -5,7 +5,7 @@
   <a href="https://dev.to/spenser6131" ><img align="right" src="https://svgur.com/i/Vfu.svg" alt="Dev.to: spenser6131" height='20px'></a>:wave: Hi, I'm Spenser
 </h2>
 
-Web Developer experienced working with Ruby on Rails, and React.js + Redux
+Ruby on Rails | React.js + Redux
 
 
 <br>
