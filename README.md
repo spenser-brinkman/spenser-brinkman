@@ -7,7 +7,6 @@
 
 Web Developer experienced working with Ruby on Rails, and React.js + Redux
 
-#### [I'm currently looking for work, so if you know of anything, please reach out!](mailto:brinkman.spenser@gmail.com)
 
 <br>
 <br>
