@@ -4,15 +4,3 @@
   <a href="https://www.linkedin.com/in/spenser-brinkman/"><img align="right" src="https://img.shields.io/badge/-Spenser%20Brinkman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spenserbrinkman/" alt="LinkedIn: Spenser Brinkman"></a>
   <a href="https://dev.to/spenser6131" ><img align="right" src="https://svgur.com/i/Vfu.svg" alt="Dev.to: spenser6131" height='20px'></a>:wave: Hi, I'm Spenser
 </h2>
-
-Ruby on Rails | React.js + Redux
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h1>:warning::construction:This page is still under construction!:construction::warning:</h1>
