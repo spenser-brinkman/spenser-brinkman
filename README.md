@@ -6,6 +6,4 @@
   Hi, I'm Spenser :wave:
 </h3>
 
-<p align="right">
-  ![](https://komarev.com/ghpvc/?username=spenser-brinkman)
-</p>
+<a href="" ><img align="right" src="https://komarev.com/ghpvc/?username=spenser-brinkman" alt="Profile views" height='20px'></a>
