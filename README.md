@@ -5,3 +5,5 @@
   <a href="https://dev.to/spenser6131" ><img align="right" src="https://svgur.com/i/Vfu.svg" alt="Dev.to: spenser6131" height='20px'></a>
   Hi, I'm Spenser :wave:
 </h3>
+
+![](https://komarev.com/ghpvc/?username=spenser-brinkman)
