@@ -6,6 +6,6 @@
   Hi, I'm Spenser :wave:
 </h3>
 
-<div align="right">
+<p align="right">
   ![](https://komarev.com/ghpvc/?username=spenser-brinkman)
-</div>
+</p>
