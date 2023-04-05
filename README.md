@@ -7,3 +7,4 @@
 </h3>
 
 <a href="" ><img align="right" src="https://komarev.com/ghpvc/?username=spenser-brinkman" alt="Profile views" height='20px'></a>
+Check out my personal website at <a target="_blank" href="https://www.spenserbrinkman.com">www.spenserbrinkman.com</a>!
