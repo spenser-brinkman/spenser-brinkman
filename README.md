@@ -4,7 +4,7 @@
 </h3>
 
 
-Check out my personal website at <a target="_blank" href="https://www.spenserbrinkman.com">www.spenserbrinkman.com</a>!
+<a target="_blank" href="https://www.spenserbrinkman.com">spenserbrinkman.com</a>!
 
 <a href="https://github.com/spenser-brinkman"><img src="https://img.shields.io/github/followers/spenser-brinkman?label=follow&style=social" alt="GitHub: spenser-brinkman"></a>
 <a href="https://www.codewars.com/users/spenser6131"><img src="https://www.codewars.com/users/spenser6131/badges/micro" alt="Codewars: spenser6131"></a>
