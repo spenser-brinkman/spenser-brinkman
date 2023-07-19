@@ -1,7 +1,5 @@
 ### Hi, I'm Spenser :wave:
 
-<a target="_blank" href="https://www.spenserbrinkman.com">spenserbrinkman.com</a>
-<br />
 [spenserbrinkman.com](https://www.spenserbrinkman.com)
 
 <a href="https://github.com/spenser-brinkman"><img src="https://img.shields.io/github/followers/spenser-brinkman?label=follow&style=social" alt="GitHub: spenser-brinkman"></a>
