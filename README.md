@@ -1,6 +1,6 @@
 ### Hi, I'm Spenser :wave:
 
-[spenserbrinkman.com](https://www.spenserbrinkman.com)
+<!-- [spenserbrinkman.com](https://www.spenserbrinkman.com) -->
 
 <a href="https://github.com/spenser-brinkman"><img src="https://img.shields.io/github/followers/spenser-brinkman?label=follow&style=social" alt="GitHub: spenser-brinkman"></a>
 <a href="https://www.codewars.com/users/spenser6131"><img src="https://www.codewars.com/users/spenser6131/badges/micro" alt="Codewars: spenser6131"></a>
